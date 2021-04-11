@@ -1,0 +1,12 @@
+2021-04-03 05:25:58 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Hieps-iMac.local with PID 1303 (/Users/hieptran/Downloads/Studying/Architecture/code/microservices-demo/twitter-to-kafka-service/target/classes started by hieptran in /Users/hieptran/Downloads/Studying/Architecture/code/microservices-demo)
+2021-04-03 05:25:58 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-03 05:25:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.117 seconds (JVM running for 2.378)
+2021-04-03 05:25:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-04-03 05:25:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-03 05:25:59 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2021-04-03 05:27:13 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Hieps-iMac.local with PID 1331 (/Users/hieptran/Downloads/Studying/Architecture/code/microservices-demo/twitter-to-kafka-service/target/classes started by hieptran in /Users/hieptran/Downloads/Studying/Architecture/code/microservices-demo)
+2021-04-03 05:27:13 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-03 05:27:13 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.234 seconds (JVM running for 2.097)
+2021-04-03 05:27:13 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-04-03 05:27:13 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-03 05:27:13 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
