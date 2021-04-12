@@ -1,0 +1,11 @@
+2021-04-12 10:29:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on MSI with PID 13408 (D:\Architecture\code\Event-driver-microservices-Spring-Kafka-Elasticsearch\microservices-demo\twitter-to-kafka-service\target\classes started by Admin in D:\Architecture\code\Event-driver-microservices-Spring-Kafka-Elasticsearch\microservices-demo\twitter-to-kafka-service)
+2021-04-12 10:29:40 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2021-04-12 10:29:41 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.452 seconds (JVM running for 0.763)
+2021-04-12 10:29:41 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2021-04-12 10:29:41 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Kafka, Elasticsearch]
+2021-04-12 10:29:41 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Hello microservices!
+2021-04-12 10:29:41 [main] INFO  c.m.d.t.t.k.s.r.i.MockKafkaStreamRunner - Starting mock filtering twitter streams for keywords [Java, Microservices, Kafka, Elasticsearch]
+2021-04-12 10:29:41 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text massa purus purus sed elit porttitor Elasticsearch libero magna purus sit amet
+2021-04-12 10:29:44 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text porttitor magna magna ipsum Kafka Maecenas magna
+2021-04-12 10:29:47 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text pulvinar sit Fusce congue Lorem purus Lorem posuere Microservices posuere porttitor amet congue ipsum Maecenas
+2021-04-12 10:29:50 [pool-1-thread-1] INFO  c.m.d.t.t.k.s.l.TwitterKafkaStatusListener - Twitter status with text ultricies congue massa sit amet ipsum porttitor porttitor Kafka massa porttitor lectus Maecenas ultricies Maecenas posuere
