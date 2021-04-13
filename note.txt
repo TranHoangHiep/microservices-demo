@@ -1,0 +1,4 @@
+sudo docker run -it --network=host confluentinc/cp-kafkacat -L -b localhost:19092
+
+
+docker run -it --network=host confluentinc/cp-kafkacat kafkacat -L -b localhost:19092
